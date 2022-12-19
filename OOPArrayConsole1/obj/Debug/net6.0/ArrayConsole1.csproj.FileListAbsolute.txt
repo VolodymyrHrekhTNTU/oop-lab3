@@ -1,0 +1,45 @@
+C:\Users\ALEX\Desktop\Універ\2-курс\ООП\OOPLab3\OOPLab3\OOPArrayConsole1\bin\Debug\net6.0\ArrayConsole1.exe
+C:\Users\ALEX\Desktop\Універ\2-курс\ООП\OOPLab3\OOPLab3\OOPArrayConsole1\bin\Debug\net6.0\ArrayConsole1.deps.json
+C:\Users\ALEX\Desktop\Універ\2-курс\ООП\OOPLab3\OOPLab3\OOPArrayConsole1\bin\Debug\net6.0\ArrayConsole1.runtimeconfig.json
+C:\Users\ALEX\Desktop\Універ\2-курс\ООП\OOPLab3\OOPLab3\OOPArrayConsole1\bin\Debug\net6.0\ArrayConsole1.dll
+C:\Users\ALEX\Desktop\Універ\2-курс\ООП\OOPLab3\OOPLab3\OOPArrayConsole1\bin\Debug\net6.0\ArrayConsole1.pdb
+C:\Users\ALEX\Desktop\Універ\2-курс\ООП\OOPLab3\OOPLab3\OOPArrayConsole1\obj\Debug\net6.0\ArrayConsole1.csproj.AssemblyReference.cache
+C:\Users\ALEX\Desktop\Універ\2-курс\ООП\OOPLab3\OOPLab3\OOPArrayConsole1\obj\Debug\net6.0\ArrayConsole1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALEX\Desktop\Універ\2-курс\ООП\OOPLab3\OOPLab3\OOPArrayConsole1\obj\Debug\net6.0\ArrayConsole1.AssemblyInfoInputs.cache
+C:\Users\ALEX\Desktop\Універ\2-курс\ООП\OOPLab3\OOPLab3\OOPArrayConsole1\obj\Debug\net6.0\ArrayConsole1.AssemblyInfo.cs
+C:\Users\ALEX\Desktop\Універ\2-курс\ООП\OOPLab3\OOPLab3\OOPArrayConsole1\obj\Debug\net6.0\ArrayConsole1.csproj.CoreCompileInputs.cache
+C:\Users\ALEX\Desktop\Універ\2-курс\ООП\OOPLab3\OOPLab3\OOPArrayConsole1\obj\Debug\net6.0\ArrayConsole1.dll
+C:\Users\ALEX\Desktop\Універ\2-курс\ООП\OOPLab3\OOPLab3\OOPArrayConsole1\obj\Debug\net6.0\refint\ArrayConsole1.dll
+C:\Users\ALEX\Desktop\Універ\2-курс\ООП\OOPLab3\OOPLab3\OOPArrayConsole1\obj\Debug\net6.0\ArrayConsole1.pdb
+C:\Users\ALEX\Desktop\Універ\2-курс\ООП\OOPLab3\OOPLab3\OOPArrayConsole1\obj\Debug\net6.0\ArrayConsole1.genruntimeconfig.cache
+C:\Users\ALEX\Desktop\Універ\2-курс\ООП\OOPLab3\OOPLab3\OOPArrayConsole1\obj\Debug\net6.0\ref\ArrayConsole1.dll
+C:\Users\polter\Desktop\3 і 4 лаби\OOPLab3\OOPLab3\OOPArrayConsole1\bin\Debug\net6.0\ArrayConsole1.exe
+C:\Users\polter\Desktop\3 і 4 лаби\OOPLab3\OOPLab3\OOPArrayConsole1\bin\Debug\net6.0\ArrayConsole1.deps.json
+C:\Users\polter\Desktop\3 і 4 лаби\OOPLab3\OOPLab3\OOPArrayConsole1\bin\Debug\net6.0\ArrayConsole1.runtimeconfig.json
+C:\Users\polter\Desktop\3 і 4 лаби\OOPLab3\OOPLab3\OOPArrayConsole1\bin\Debug\net6.0\ArrayConsole1.dll
+C:\Users\polter\Desktop\3 і 4 лаби\OOPLab3\OOPLab3\OOPArrayConsole1\bin\Debug\net6.0\ArrayConsole1.pdb
+C:\Users\polter\Desktop\3 і 4 лаби\OOPLab3\OOPLab3\OOPArrayConsole1\obj\Debug\net6.0\ArrayConsole1.csproj.AssemblyReference.cache
+C:\Users\polter\Desktop\3 і 4 лаби\OOPLab3\OOPLab3\OOPArrayConsole1\obj\Debug\net6.0\ArrayConsole1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\polter\Desktop\3 і 4 лаби\OOPLab3\OOPLab3\OOPArrayConsole1\obj\Debug\net6.0\ArrayConsole1.AssemblyInfoInputs.cache
+C:\Users\polter\Desktop\3 і 4 лаби\OOPLab3\OOPLab3\OOPArrayConsole1\obj\Debug\net6.0\ArrayConsole1.AssemblyInfo.cs
+C:\Users\polter\Desktop\3 і 4 лаби\OOPLab3\OOPLab3\OOPArrayConsole1\obj\Debug\net6.0\ArrayConsole1.csproj.CoreCompileInputs.cache
+C:\Users\polter\Desktop\3 і 4 лаби\OOPLab3\OOPLab3\OOPArrayConsole1\obj\Debug\net6.0\ArrayConsole1.dll
+C:\Users\polter\Desktop\3 і 4 лаби\OOPLab3\OOPLab3\OOPArrayConsole1\obj\Debug\net6.0\refint\ArrayConsole1.dll
+C:\Users\polter\Desktop\3 і 4 лаби\OOPLab3\OOPLab3\OOPArrayConsole1\obj\Debug\net6.0\ArrayConsole1.pdb
+C:\Users\polter\Desktop\3 і 4 лаби\OOPLab3\OOPLab3\OOPArrayConsole1\obj\Debug\net6.0\ArrayConsole1.genruntimeconfig.cache
+C:\Users\polter\Desktop\3 і 4 лаби\OOPLab3\OOPLab3\OOPArrayConsole1\obj\Debug\net6.0\ref\ArrayConsole1.dll
+C:\Users\polter\Desktop\C#\VS programms\OOPLab3\OOPLab3\OOPArrayConsole1\bin\Debug\net6.0\ArrayConsole1.exe
+C:\Users\polter\Desktop\C#\VS programms\OOPLab3\OOPLab3\OOPArrayConsole1\bin\Debug\net6.0\ArrayConsole1.deps.json
+C:\Users\polter\Desktop\C#\VS programms\OOPLab3\OOPLab3\OOPArrayConsole1\bin\Debug\net6.0\ArrayConsole1.runtimeconfig.json
+C:\Users\polter\Desktop\C#\VS programms\OOPLab3\OOPLab3\OOPArrayConsole1\bin\Debug\net6.0\ArrayConsole1.dll
+C:\Users\polter\Desktop\C#\VS programms\OOPLab3\OOPLab3\OOPArrayConsole1\bin\Debug\net6.0\ArrayConsole1.pdb
+C:\Users\polter\Desktop\C#\VS programms\OOPLab3\OOPLab3\OOPArrayConsole1\obj\Debug\net6.0\ArrayConsole1.csproj.AssemblyReference.cache
+C:\Users\polter\Desktop\C#\VS programms\OOPLab3\OOPLab3\OOPArrayConsole1\obj\Debug\net6.0\ArrayConsole1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\polter\Desktop\C#\VS programms\OOPLab3\OOPLab3\OOPArrayConsole1\obj\Debug\net6.0\ArrayConsole1.AssemblyInfoInputs.cache
+C:\Users\polter\Desktop\C#\VS programms\OOPLab3\OOPLab3\OOPArrayConsole1\obj\Debug\net6.0\ArrayConsole1.AssemblyInfo.cs
+C:\Users\polter\Desktop\C#\VS programms\OOPLab3\OOPLab3\OOPArrayConsole1\obj\Debug\net6.0\ArrayConsole1.csproj.CoreCompileInputs.cache
+C:\Users\polter\Desktop\C#\VS programms\OOPLab3\OOPLab3\OOPArrayConsole1\obj\Debug\net6.0\ArrayConsole1.dll
+C:\Users\polter\Desktop\C#\VS programms\OOPLab3\OOPLab3\OOPArrayConsole1\obj\Debug\net6.0\refint\ArrayConsole1.dll
+C:\Users\polter\Desktop\C#\VS programms\OOPLab3\OOPLab3\OOPArrayConsole1\obj\Debug\net6.0\ArrayConsole1.pdb
+C:\Users\polter\Desktop\C#\VS programms\OOPLab3\OOPLab3\OOPArrayConsole1\obj\Debug\net6.0\ArrayConsole1.genruntimeconfig.cache
+C:\Users\polter\Desktop\C#\VS programms\OOPLab3\OOPLab3\OOPArrayConsole1\obj\Debug\net6.0\ref\ArrayConsole1.dll
